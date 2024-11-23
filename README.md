@@ -223,5 +223,3 @@ frontend/
 │   │
 │   └── App.js
 ```
-
-#### Continue criando os componentes conforme necessário.
